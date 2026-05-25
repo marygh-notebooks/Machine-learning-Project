@@ -16,7 +16,7 @@ Full Project kaggle link:(https://www.kaggle.com/maryghsa/telecom-loyal-customer
 ## 📁 Files Included
 - `teleco_clustering(4).html`: notebook html file
 - `telecom-loyal-customers.ipynb` : notebook ipynb file
-- Telco-Customer-Churn.csv: Datasettelecom-loyal-customers.ipynb : 
+- Telco-Customer-Churn.csv: Dataset
 
 ## 💡 Business Applications
 - Identify high-risk customers for proactive retention
